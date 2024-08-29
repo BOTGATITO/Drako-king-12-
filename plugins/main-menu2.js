@@ -34,6 +34,8 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 ∘ _Viernes_
 ∘ _Mierda de Bot_
 ∘ _Me olvidé_
+∘ _No me burlare_
+∘ _xq tanto silencio_
 ∘ _Baneado_
 ∘ _Feliz navidad_
 ∘ _A nadie le importa_
