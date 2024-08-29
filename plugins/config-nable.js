@@ -2,7 +2,7 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-const miniopcion = `🚩 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖕𝖆𝖗𝖆 𝖑𝖔𝖘 𝖌𝖗𝖚𝖕𝖔𝖘*
+const miniopcion = `🌟 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖕𝖆𝖗𝖆 𝖑𝖔𝖘 𝖌𝖗𝖚𝖕𝖔𝖘*
 
 ${usedPrefix + command} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴
 ${usedPrefix + command} 𝙳𝙴𝚃𝙴𝙲𝚃
@@ -18,7 +18,7 @@ ${usedPrefix + command} 𝙰𝚄𝙳𝙸𝙾𝚂
 ${usedPrefix + command} 𝙼𝙾𝙳𝙾𝙰𝙳𝙼𝙸𝙽
 ${usedPrefix + command} 𝙰𝙽𝚃𝙸𝙵𝙰𝙺𝙴
 
-💞 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖘𝖔𝖑𝖔 𝖕𝖆𝖗𝖆 𝖒𝖎 𝖕𝖗𝖔𝖕𝖎𝖊𝖙𝖆𝖗𝖎𝖔*
+🔱 *𝕺𝖕𝖈𝖎𝖔𝖓𝖊𝖘 𝖘𝖔𝖑𝖔 𝖕𝖆𝖗𝖆 𝖒𝖎 𝖕𝖗𝖔𝖕𝖎𝖊𝖙𝖆𝖗𝖎𝖔*
 
 ${usedPrefix + command} 𝙿𝚄𝙱𝙻𝙸𝙲
 ${usedPrefix + command} 𝚂𝚃𝙰𝚃𝚄𝚂
