@@ -38,6 +38,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 ∘ _Feliz navidad_
 ∘ _A nadie le importa_
 ∘ _Sexo_
+∘ _Semurioelgrupo_
 ∘ _Vete a la vrg_
 ∘ _Ara ara_
 ∘ _Hola_
