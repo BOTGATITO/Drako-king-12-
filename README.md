@@ -17,7 +17,7 @@
 
 > Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo. 🍟
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Megumin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW)
+[![Click Aquí](https://img.shields.io/badge/Grupo-Drako-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW)
 
 🍟 **`INSTALACION MANUAL POR TERMUX`**
 
