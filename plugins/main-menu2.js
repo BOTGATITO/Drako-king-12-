@@ -42,6 +42,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 ∘ _Vete a la vrg_
 ∘ _Ara ara_
 ∘ _Hola_
+∘ _Ya no aguanto mas_
 ∘ _Un pato_
 ∘ _Nyanpasu_
 ∘ _Te amo_
