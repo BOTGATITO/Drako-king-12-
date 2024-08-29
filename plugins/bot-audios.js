@@ -13,6 +13,11 @@ let vn = 'https://qu.ax/xynz.mp3'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}  
 
+if (chat.audios && m.text.match(/(no me burlare|no me burlare|no me burlare)/gi)) {    
+let vn = 'https://qu.ax/Mjpq.opus'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}
+  
 if (/^ara ara$/i.test(m.text) && chat.audios) {  
 let vn = 'https://qu.ax/PPgt.mp3'
 this.sendPresenceUpdate('recording', m.chat)   
