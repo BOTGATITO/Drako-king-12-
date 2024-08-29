@@ -2,7 +2,7 @@
 
 ## 💥 **`Drako - Bot`**
 ## 💥 **`El bot más explosivo de WhatsApp!`**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Diomar+King;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Drako+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Diomar+King;👑+BOOM!!!;👑)](https://git.io/typing-svg)
 ![Drako](https://telegra.ph/file/166dc5e176a18120a1949.jpg)
 
 ---
