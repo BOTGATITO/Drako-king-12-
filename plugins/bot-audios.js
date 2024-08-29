@@ -677,6 +677,11 @@ if (chat.audios && m.text.match(/(semurioelgrupo|se murio el grupo|se murio el g
 let vn = 'https://qu.ax/Zbx.opus'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}
+
+if (chat.audios && m.text.match(/(ya no aguanto mas|ya no aguanto mas|ya no aguanto mas)/gi)) {    
+let vn = 'https://qu.ax/Siqi.opus'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}
   
 return !0 }
 export default handler
