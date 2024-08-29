@@ -7,7 +7,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   if (!m.messageStubType || !m.isGroup) return true;
 
   let vn = 'https://qu.ax/OMwZ.mp3';
-  let vn2 = 'https://qu.ax/Zbx.opus';
+  let vn2 = 'hhttps://qu.ax/FAVP.mp3';
   let welc = welcome;
   let adi = adios;
   let chat = global.db.data.chats[m.chat];
