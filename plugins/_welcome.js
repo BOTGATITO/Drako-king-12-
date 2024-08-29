@@ -6,7 +6,7 @@ import fetch from 'node-fetch';
 export async function before(m, { conn, participants, groupMetadata }) {
   if (!m.messageStubType || !m.isGroup) return true;
 
-  let vn = 'https://qu.ax/tdAL.mp3';
+  let vn = 'https://qu.ax/OMwZ.mp3';
   let vn2 = 'https://qu.ax/thRD.mp3';
   let welc = welcome;
   let adi = adios;
