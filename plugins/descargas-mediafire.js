@@ -28,7 +28,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
       await m.reply(caption);
       await conn.sendFile(m.chat, link, name, '', m, null, {mimetype: mime, asDocument: true});
     } catch {
-      await m.reply('Hubo un error en la eescarga.', m, rcanal);
+      await m.reply('Hubo un error en la eescarga. agalo de la siguiente manera .MediaFire link', m, rcanal);
     }
   }
 };
