@@ -191,7 +191,7 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363323286489957@newsletter',
+      newsletterJid: '120363315412997601@newsletter',
       newsletterName: '⏤͟͞𝐃𝐫𝐚𝐤𝐨-𝐁𝐨𝐭๛𝐎𝐟𝐜࿐/✎⋰∴⋱𝐁𝐲 𝐊𝐢𝐧𝐠',
       serverMessageId: -1,
     },
