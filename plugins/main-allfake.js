@@ -106,7 +106,7 @@ global.icono = [
 'https://telegra.ph/file/61851fc7051e96cc18c7b.jpg',
 'https://telegra.ph/file/61851fc7051e96cc18c7b.jpg',
 'https://telegra.ph/file/61851fc7051e96cc18c7b.jpg',
-'https://telegra.ph/file/e2f5dbd931741402527e3.jpg'
+'https://telegra.ph/file/1b0ab6d79f39b23c076f6.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '💥 ¡El bot mas explosivo!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
