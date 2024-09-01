@@ -133,6 +133,6 @@ href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino
 <a
 href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
 
-> Copyright (c) 2024 **[David-Chian](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820)**.
+> Copyright (c) 2024 **[King-Diomar](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
